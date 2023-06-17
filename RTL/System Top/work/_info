@@ -1,0 +1,59 @@
+m255
+K4
+z2
+!s11f vlog 2023.1 2023.01, Jan 23 2023
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dE:/Courses/Digital/Temsah Diploma/System (currently working on)/RTL/System Top
+vSYS_TOP
+Z1 2SYS_TOP.v SYS_TOP_tb.v
+Z2 !s110 1686962792
+!i10b 1
+!s100 Gii?:;<f<N00c=dGNKo:30
+I^Q7c]2AVIDJhOBCThSU]Z1
+R0
+w1686962251
+8SYS_TOP.v
+FSYS_TOP.v
+!i122 5
+L0 1 211
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+Z4 OL;L;2023.1;77
+r1
+!s85 0
+31
+Z5 !s108 1686962792.000000
+!s107 SYS_TOP_tb.v|SYS_TOP.v|
+Z6 !s90 SYS_TOP.v|SYS_TOP_tb.v|
+!i113 0
+Z7 o-L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z8 tCvgOpt 0
+n@s@y@s_@t@o@p
+vSYS_TOP_TB
+R1
+R2
+!i10b 1
+!s100 B3]AV`5GUdFnHXchDci[G2
+I[Kg_XdU`6Uc]A:o:2@`F?3
+R0
+w1686962789
+8SYS_TOP_tb.v
+FSYS_TOP_tb.v
+!i122 5
+L0 3 285
+R3
+R4
+r1
+!s85 0
+31
+R5
+Z9 !s107 SYS_TOP_tb.v|SYS_TOP.v|
+R6
+!i113 0
+R7
+R8
+n@s@y@s_@t@o@p_@t@b
